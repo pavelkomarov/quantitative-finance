@@ -8,6 +8,7 @@ This is meant to eventually house a few things:
   - That mean-variance ?? trading strategy I implemented on a whim a couple years ago, beyond the extra credit.
   - A reinforcement-learning based approach.
   - Research in to quantification of options risk/valuation strategies.
+  - An options strategy that finds bargains by looking for odd-ones-out of sorted price order.
 - A set of supporting objects and utilities (a "framework") for to make the above goals coherent.
 
 Specific Todo items will live in the comments of relevant files and in the readmes of subfolders. I'll organize specific high-priority goals for each new release here at the top level.
