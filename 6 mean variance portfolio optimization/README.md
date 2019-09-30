@@ -1,4 +1,4 @@
-`quadprog.py` provides a helper method to make calling the quadratic program solver from cvxopt easier.
+`quadprog.py` provides a helper method to make calling the quadratic program solver from `cvxopt` easier.
 
 `util.py` has a helper function for reading data. As I add more things to this repo, this may end up somewhere more general.
 

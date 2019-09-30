@@ -1,5 +1,8 @@
-This is meant to eventually house a few things:
+This repo contains a series of quantitative finance projects from a course I took in 2016 called Machine Learning for Trading plus some others I've worked on. Because the foundation for me was that class, projects are sort of sequential, numbered from least sophisticated to more sophisticated.
 
+
+
+TODOs:
 - Basic, clean technical analysis scripts complete with header comments about how to use them (full data pipeline)
 - Trading strategies, some from ML for Trading, some common knowledge, some to be invented, implemented where possible as runnable Jupyter notebooks with explanations and instructions.
   - A basic classification strategy to decide purely whether something will go up or down on a daily basis, utilizing data of equities themselves, their siblings, and any other daily data streams we can think of.
@@ -12,8 +15,3 @@ This is meant to eventually house a few things:
   - An LSTM-based prediction model, to get more intuition about recurrent nets.
 - A set of supporting objects and utilities (a "framework") for to make the above goals coherent.
 
-Specific Todo items will live in the comments of relevant files and in the readmes of subfolders. I'll organize specific high-priority goals for each new release here at the top level.
-
-Todo for version 0.1:
-  - upload projects from ML for trading, and organize
- 
